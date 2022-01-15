@@ -1,0 +1,1 @@
+SELECT 'Hello World' from world;
